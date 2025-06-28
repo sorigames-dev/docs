@@ -3,16 +3,37 @@ layout: page
 title: About
 permalink: /about/
 ---
+# 회사 소개
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**소리게임즈(주)**는 누구나 쉽게 즐길 수 있는 퍼즐 및 캐주얼 게임을 개발하는 게임 제작사입니다.  
+유저 중심의 재미와 완성도 높은 콘텐츠를 지향하며, 모바일 플랫폼을 중심으로 다양한 글로벌 게임 서비스를 제공하고 있습니다.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+---
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## 📌 회사 정보
+
+- **회사명**: 소리게임즈
+- **사업자 등록번호**: 218-10-06036  
+- **통신판매업 등록번호**: 2025-의정부흥선-0418  
+- **주소**: 경기도 의정부시 신흥로 234, CRC빌딩 11층 (의정부동)  
+- **우편번호**: 11651  
+- **이메일**: [jinwoolee@sori-games.com](mailto:jinwoolee@sori-games.com)
+
+---
+
+## 💡 사업 영역
+
+- 퍼즐 & 캐주얼 장르 기반의 모바일 게임 개발
 
 
-[jekyll-organization]: https://github.com/jekyll
+---
+
+## 🌐 관련 페이지
+
+- [개인정보 처리방침](./privacy-policy.md)  
+- [이용약관](./terms-of-service.md)
+
+---
+
+소리게임즈는 앞으로도 유저와 함께 성장하는 즐거운 게임 문화를 만들어가겠습니다.  
+감사합니다.
